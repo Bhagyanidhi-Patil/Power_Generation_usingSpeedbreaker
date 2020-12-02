@@ -1,1 +1,1 @@
-# Power_Generator_usingSpeedbreaker
+# Power_Generation_usingSpeedbreaker
